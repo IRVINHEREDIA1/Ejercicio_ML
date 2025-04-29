@@ -9,6 +9,5 @@ public class Base {
 
     protected static WebDriverWait wait;
     protected int TIME_OUT= 10;
-
     protected static  String BASE_URL = "https://mercadolibre.com/";
 }

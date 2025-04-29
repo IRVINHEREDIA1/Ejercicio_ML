@@ -21,7 +21,7 @@ import org.junit.runner.RunWith;
         },
         monochrome = false,
         publish = true,
-        tags = "@Login",
+        tags = "@filtrosmc",
         dryRun = false
 )
 public class TestRunner  {

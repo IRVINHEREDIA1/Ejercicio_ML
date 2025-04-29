@@ -23,7 +23,6 @@ public class Hooks extends Base{
 
     }
 
-
     @After
     public void tearDown(Scenario scenario){
         System.out.println("After");
