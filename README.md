@@ -10,7 +10,7 @@ Google Chrome (se sugiere la vs 135.0.7049.115 en adelante)
 
 #Instalación.
 
-git clone https://github.com/usuario/proyecto-automatizacion.git
+git clone https://github.com/IRVINHEREDIA1/Ejercicio_ML.git
 
 #Ejecución con Maven
 Para ejecutar las pruebas y generar los reportes correspondientes, utilice el siguiente comando:
