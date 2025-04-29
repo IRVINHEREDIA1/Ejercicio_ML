@@ -16,10 +16,12 @@ Google Chrome (se sugiere la vs 135.0.7049.115 en adelante)
 
 #Instalación.
 
-Para ejecutar el ejercicio se debe clonar la rama donde está el proyecto, para ello ejecutar el siguiente comando a
-travéz de git bash
+Para ejecutar el ejercicio descargar el proyecto
 
-git clone https://github.com/IRVINHEREDIA1/Ejercicio_ML.git
+- Ingresar al repositorio https://github.com/IRVINHEREDIA1/Ejercicio_ML
+- Seleccionar la rama "ejercicio1"
+- Click en la opción <> Code y descargar el archivo a través de "Download ZIP"
+- Descomprimir el archivo y abrir con el IntelliJ
 
 #Ejecución con Maven
 
