@@ -5,9 +5,13 @@
 Tener instalado:
 
 Java
-Java Development Kit (JDK) 21
+
+Java Development Kit (JDK)
+
 Maven
+
 IntelliJ
+
 Google Chrome (se sugiere la vs 135.0.7049.115 en adelante)
 
 #Instalación.
@@ -20,11 +24,14 @@ git clone https://github.com/IRVINHEREDIA1/Ejercicio_ML.git
 #Ejecución con Maven
 
 Para ejecutar las pruebas y generar los reportes correspondientes, utilice el siguiente comando:
+
 mvn clean verify
 
 #Visualización del reporte.
 
-El comando anterior generará un informe de pruebas de Serenity en el directorio target/site/serenity/index.html
+El comando anterior ejecutará el proyecto y generará un informe de pruebas de Serenity en el directorio
+target/site/serenity/index.html
+
 El reporte debe abrir con el navegador que tenga instalado
 
 #Consideraciones adicionales:
